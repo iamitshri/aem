@@ -1,5 +1,5 @@
 # Purpose
-- I will be documenting my AEM Learnings
+- I will be documenting my AEM Cloud Service Learnings
 
 
 ### IMS Authentication
